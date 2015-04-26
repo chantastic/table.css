@@ -1,0 +1,24 @@
+{
+  "name": "table.css",
+  "version": "0.0.1",
+  "homepage": "https://github.com/chantastic/table.css",
+  "description": "Responsive Table CSS",
+  "main": "table.css",
+  "keywords": [
+    "css",
+    "table",
+    "responsive",
+    "RWD"
+  ],
+  "authors": [
+    "Michael Chan"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
